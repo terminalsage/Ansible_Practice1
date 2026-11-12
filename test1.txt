@@ -1,3 +1,4 @@
 Test for git pull --rebase
 4:20 - local update 1 
   (didnt seem to push to remote)
+  4:29 - working now, needed PR 
